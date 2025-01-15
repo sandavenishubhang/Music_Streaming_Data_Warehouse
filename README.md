@@ -84,7 +84,7 @@ Music_Streaming_Data_Warehouse/
    - Populate the star schema in PostgreSQL.
 
 ### Talend Workflow
-![Talend Workflow Screenshot](etl/ScreenShots/Screenshot 2025-01-15 at 4.42.00 PM.png)
+![Talend Workflow Screenshot](etl/ScreenShots/Control_flow.png)
 
 ---
 

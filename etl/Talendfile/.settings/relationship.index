@@ -1,0 +1,552 @@
+[ {
+  "baseItem" : {
+    "id" : "_0bm4AJ7qEe-qffWMG6HUvg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_0rNhwJ1fEe-w5e9v01lWYA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA - artists",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - countrydim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - statedim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_1lUCEJ-aEe-dtJvpNjHhcw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - bridgeactivity",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - listening_activity",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - sessionsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_2qf2kKINEe-cyIutex3ktA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_3fUu8KHPEe-4nMlpzUv8-Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - citydim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - usersdim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_4bXEMJ7AEe-wBqUbcMduCA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - monthdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - yeardim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_51Z48J7DEe-wBqUbcMduCA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - weekdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - yeardim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_A19bgJxcEe-W7sL-rMNhdQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA - artists",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - countrydim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Abm-oJ7JEe-wBqUbcMduCA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - monthdim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EMJTsJ2aEe-pKPIXzRwDrA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA - artists",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - countrydim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_FNymMJ4DEe-c8r7HJrgypA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA - artists",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - artistsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - citydim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_K52AoKFREe-3LpsgVw_wUQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "ARTISTLOC:_0bm4AJ7qEe-qffWMG6HUvg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_0rNhwJ1fEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_1lUCEJ-aEe-dtJvpNjHhcw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_2qf2kKINEe-cyIutex3ktA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_4bXEMJ7AEe-wBqUbcMduCA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_51Z48J7DEe-wBqUbcMduCA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_EMJTsJ2aEe-pKPIXzRwDrA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_FNymMJ4DEe-c8r7HJrgypA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_Nj22oJ5uEe-wBqUbcMduCA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_ZDWKkJ7jEe-qffWMG6HUvg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_cttFAJ76Ee-qffWMG6HUvg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_fmjDgJ-AEe-WU-XkN6_jvg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_uF724J1fEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_yNthUJ4fEe-wBqUbcMduCA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Nj22oJ5uEe-wBqUbcMduCA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Q7XLkJ_7Ee-oGdFOSOa1GQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - usersdim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ZDWKkJ7jEe-qffWMG6HUvg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA - session",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - datedim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - weekdim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_cttFAJ76Ee-qffWMG6HUvg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA - session",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - sessionsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - songsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - timedim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - usersdim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fmjDgJ-AEe-WU-XkN6_jvg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - artistsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - sessionsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - songsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - usersdim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_p1ZVAKFgEe-3LpsgVw_wUQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "ARTISTLOC:_0bm4AJ7qEe-qffWMG6HUvg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_0rNhwJ1fEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_4bXEMJ7AEe-wBqUbcMduCA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_Abm-oJ7JEe-wBqUbcMduCA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_EMJTsJ2aEe-pKPIXzRwDrA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_Nj22oJ5uEe-wBqUbcMduCA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_ZDWKkJ7jEe-qffWMG6HUvg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "ARTISTLOC:_uF724J1fEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_uF724J1fEe-w5e9v01lWYA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA - artists",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - countrydim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yNthUJ4fEe-wBqUbcMduCA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA - songs",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - artistsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - songsdim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zpkN8J5kEe-wBqUbcMduCA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r7iDYJ00Ee-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_soK8YJ0zEe-w5e9v01lWYA - citydim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
